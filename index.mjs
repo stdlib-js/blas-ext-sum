@@ -1,4 +1,0 @@
-// Copyright (c) 2025 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
-/// <reference types="./index.d.ts" />
-import s from"https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtypes@v0.3.0-esm/index.mjs";import t from"https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-gsum@esm/index.mjs";import e from"https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-dsum@esm/index.mjs";import d from"https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-ssum@esm/index.mjs";import r from"https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-unary-reduce-strided1d-dispatch-factory@esm/index.mjs";var a=r({types:["float64","float32"],fcns:[e,d],default:t},[s("numeric_and_generic")],s("numeric_and_generic"),{output:"accumulation",casting:"promoted"});const{assign:n}=a;export{n as assign,a as default};
-//# sourceMappingURL=index.mjs.map
