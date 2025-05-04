@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-03)
+## Unreleased (2025-05-04)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`74fd8e4`](https://github.com/stdlib-js/stdlib/commit/74fd8e4917e02ca9186c9da4cfd676321ba7998f) - **docs:** update note _(by Athan Reines)_
 -   [`475dc22`](https://github.com/stdlib-js/stdlib/commit/475dc227d741fcb816fc101523cc94975230e2d9) - **docs:** update note _(by Athan Reines)_
 -   [`8259ed5`](https://github.com/stdlib-js/stdlib/commit/8259ed5b9d1f003567f1534962163799c6254c88) - **fix:** restrict set of allowed data types _(by Athan Reines)_
 -   [`eb8260d`](https://github.com/stdlib-js/stdlib/commit/eb8260d1a9960852789d77150a8a51ac582c8a7d) - **docs:** update note _(by Athan Reines)_
