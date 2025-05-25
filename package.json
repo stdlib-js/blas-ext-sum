@@ -37,9 +37,11 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/blas-ext-base-ndarray-csum": "github:stdlib-js/blas-ext-base-ndarray-csum#main",
     "@stdlib/blas-ext-base-ndarray-dsum": "github:stdlib-js/blas-ext-base-ndarray-dsum#main",
     "@stdlib/blas-ext-base-ndarray-gsum": "github:stdlib-js/blas-ext-base-ndarray-gsum#main",
     "@stdlib/blas-ext-base-ndarray-ssum": "github:stdlib-js/blas-ext-base-ndarray-ssum#main",
+    "@stdlib/blas-ext-base-ndarray-zsum": "github:stdlib-js/blas-ext-base-ndarray-zsum#main",
     "@stdlib/ndarray-base-unary-reduce-strided1d-dispatch-factory": "github:stdlib-js/ndarray-base-unary-reduce-strided1d-dispatch-factory#main",
     "@stdlib/ndarray-dtypes": "^0.3.0",
     "@stdlib/types": "^0.4.3"
