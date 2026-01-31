@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-06-30)
+## 0.1.0 (2026-01-31)
 
 <section class="features">
 
@@ -34,6 +34,7 @@
 
 <details>
 
+-   [`4d84e34`](https://github.com/stdlib-js/stdlib/commit/4d84e3478381848a944b5538bb51f5893e5686b7) - **docs:** update type _(by Athan Reines)_
 -   [`71cafe3`](https://github.com/stdlib-js/stdlib/commit/71cafe3750d452180ec33524aa0d2fb19322b743) - **fix:** add support for complex64 and complex128 _(by Athan Reines)_
 -   [`e0ef8c0`](https://github.com/stdlib-js/stdlib/commit/e0ef8c087391aed873416ff772da92ef34eabee8) - **docs:** update examples _(by Athan Reines)_
 -   [`74fd8e4`](https://github.com/stdlib-js/stdlib/commit/74fd8e4917e02ca9186c9da4cfd676321ba7998f) - **docs:** update note _(by Athan Reines)_

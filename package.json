@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-sum",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute the sum along one or more ndarray dimensions.",
   "license": "Apache-2.0",
   "author": {
@@ -37,13 +37,13 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/blas-ext-base-ndarray-csum": "github:stdlib-js/blas-ext-base-ndarray-csum#main",
-    "@stdlib/blas-ext-base-ndarray-dsum": "github:stdlib-js/blas-ext-base-ndarray-dsum#main",
-    "@stdlib/blas-ext-base-ndarray-gsum": "github:stdlib-js/blas-ext-base-ndarray-gsum#main",
-    "@stdlib/blas-ext-base-ndarray-ssum": "github:stdlib-js/blas-ext-base-ndarray-ssum#main",
-    "@stdlib/blas-ext-base-ndarray-zsum": "github:stdlib-js/blas-ext-base-ndarray-zsum#main",
+    "@stdlib/blas-ext-base-ndarray-csum": "^0.1.0",
+    "@stdlib/blas-ext-base-ndarray-dsum": "^0.1.0",
+    "@stdlib/blas-ext-base-ndarray-gsum": "^0.1.0",
+    "@stdlib/blas-ext-base-ndarray-ssum": "^0.1.0",
+    "@stdlib/blas-ext-base-ndarray-zsum": "^0.1.0",
     "@stdlib/ndarray-base-unary-reduce-strided1d-dispatch-factory": "github:stdlib-js/ndarray-base-unary-reduce-strided1d-dispatch-factory#main",
-    "@stdlib/ndarray-dtypes": "^0.3.0",
+    "@stdlib/ndarray-dtypes": "^0.4.0",
     "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
@@ -56,7 +56,7 @@
     "@stdlib/ndarray-ctor": "^0.2.2",
     "@stdlib/ndarray-dtype": "^0.2.2",
     "@stdlib/ndarray-empty": "^0.3.0",
-    "@stdlib/ndarray-empty-like": "^0.3.0",
+    "@stdlib/ndarray-empty-like": "^0.3.1",
     "@stdlib/ndarray-order": "^0.2.2",
     "@stdlib/ndarray-shape": "^0.2.2",
     "@stdlib/ndarray-to-array": "^0.2.1",
@@ -97,7 +97,6 @@
     "summation",
     "ndarray"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
