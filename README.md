@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-sum@deno/mod.js';
+import sum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-sum@v0.1.0-deno/mod.js';
 ```
 
 #### sum( x\[, options] )
@@ -230,7 +230,7 @@ import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-
 import getDType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ctor@deno/mod.js';
-import sum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-sum@deno/mod.js';
+import sum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-sum@v0.1.0-deno/mod.js';
 
 // Generate an array of random numbers:
 var xbuf = discreteUniform( 25, 0, 20, {
