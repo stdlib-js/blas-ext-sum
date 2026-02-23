@@ -44,7 +44,8 @@
     "@stdlib/blas-ext-base-ndarray-zsum": "^0.1.1",
     "@stdlib/ndarray-base-unary-reduce-strided1d-dispatch-factory": "^0.0.1",
     "@stdlib/ndarray-dtypes": "^0.4.1",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-zeros": "^0.2.3",
