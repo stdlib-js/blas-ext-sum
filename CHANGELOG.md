@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-07)
+## Unreleased (2026-06-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b17716c`](https://github.com/stdlib-js/stdlib/commit/b17716c5954f979e72011c0dd34dde9853f3a661) - **chore:** modernize benchmarks and examples [(#12884)](https://github.com/stdlib-js/stdlib/pull/12884) _(by Karan Anand, Athan Reines)_
 -   [`9cfa05c`](https://github.com/stdlib-js/stdlib/commit/9cfa05c369035f1f405d97f148e9e3d8a32269ef) - **docs:** update `x` JSDoc type in `@stdlib/blas-ext/sum` [(#12645)](https://github.com/stdlib-js/stdlib/pull/12645) _(by Philipp Burckhardt)_
 -   [`1c2eddf`](https://github.com/stdlib-js/stdlib/commit/1c2eddf59350cdc7dfd3d66eab07ab0291d5f9f6) - **test:** fix dtype comparisons _(by Athan Reines)_
 -   [`fa69a58`](https://github.com/stdlib-js/stdlib/commit/fa69a5843285eae8c1340497bf27ecc51875f384) - **docs:** improve doctests for ndarray instances in `blas/ext/sum` [(#11481)](https://github.com/stdlib-js/stdlib/pull/11481) _(by Uday Kakade)_
@@ -27,10 +28,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Kamal Singh Rautela
+-   Karan Anand
 -   Philipp Burckhardt
 -   Uday Kakade
 
